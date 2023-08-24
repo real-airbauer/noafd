@@ -10,7 +10,7 @@
 **Fuzzy Search** - [FuseJS](https://fusejs.io/)  
 **Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)  
 **Code Formatting** - [Prettier](https://prettier.io/)  
-**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)  
+**Deployment** - [Vercel](https://vercel.com/)  
 **Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
 **Linting** - [ESLint](https://eslint.org)
 
