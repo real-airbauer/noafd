@@ -19,7 +19,7 @@
 The easiest way to run this project locally is to run the following command in your desired directory.
 
 ```bash
-# npm 6.x 
+# npm 6+ 
 npm install
 
 # npm 7+, start the dev server:
