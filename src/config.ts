@@ -70,8 +70,8 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mastodon",
-    href: "https://github.com/",
+    href: "https://social.anoxinon.de/@noAfD",
     linkTitle: `${SITE.title} on Mastodon`,
-    active: false,
+    active: true,
   },
 ];
