@@ -34,7 +34,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://github.com/noafd_world",
+    href: "https://twitter.com/noafd_world",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
